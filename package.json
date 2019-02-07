@@ -1,0 +1,20 @@
+{
+  "name": "nodepdftoimg",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "suku",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "morgan": "^1.9.1",
+    "pdf-image": "^2.0.0"
+  }
+}
